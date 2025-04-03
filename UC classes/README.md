@@ -1,3 +1,3 @@
-"This folder contains work from classes taken at UC.
+This folder contains work from classes taken at UC.
 
 IN PROGRESS
